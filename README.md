@@ -15,7 +15,7 @@
 * https://docs.google.com/spreadsheets/d/1svu84vUmiMjZooO7ixXJ45pa46d1mX262o0yKI532_E/edit#gid=717910587 링크 2번부터 실행하세요.
 (github 토큰 생성방법은 1번)
 
-4. 빌드도구
+### 4. 빌드도구
 * gradle 또는 maven을 주로 사용.
 * maven 으로 하겠습니다.
 프로젝트 선택 - 오른쪽 버튼 메뉴 Configure - convert to maven project 
